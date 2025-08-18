@@ -1,5 +1,5 @@
 
-# CS2080project
+# Privacy In Practice: Local Differential Privacy Tool
 ## Overview
 This repository is split into **backend** (Flask API) and **frontend** (React/Tailwind) folders.
 
